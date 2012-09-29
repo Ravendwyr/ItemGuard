@@ -1,6 +1,6 @@
 ## Interface: 50001
 ## Title: Item Guard
-## Notes: Adds a layer of protection to your inventory to prevent accidental selling.
+## Notes: User-configurable protection for your inventory. Automatically buys back mistakenly sold items.
 ## Author: Ethan Centaurai
 ## Version: @project-version@
 ## X-Website: http://www.wowace.com/addons/itemguard

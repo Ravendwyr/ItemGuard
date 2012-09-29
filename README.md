@@ -1,4 +1,4 @@
 ItemGuard
 =========
 
-WoW Addon - Adds a layer of protection to your inventory to prevent accidental selling.
+WoW Addon - User-configurable protection for your inventory. Automatically buys back mistakenly sold items.
