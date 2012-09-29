@@ -1,0 +1,11 @@
+## Interface: 50001
+## Title: Item Guard
+## Notes: Adds a layer of protection to your inventory to prevent accidental selling.
+## Author: Ethan Centaurai
+## Version: @project-version@
+## X-Website: http://www.wowace.com/addons/itemguard
+## X-WoWIPortal: Ethan Centaurai
+## X-Category: Bags & Inventory
+## SavedVariables: ItemGaurdDB
+
+Core.lua
