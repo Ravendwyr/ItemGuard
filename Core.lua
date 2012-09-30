@@ -45,7 +45,7 @@ function ItemGuard:HandleChatCommand(link)
 
 	if db[itemID] then
 		db[itemID] = nil
-		self:Print(link .. " is no longer marked as a protected item.")
+		self:Print(link .. " is no longer a protected item.")
 	else
 		db[itemID] = true
 		self:Print(link .. " has been marked as a protected item.")
