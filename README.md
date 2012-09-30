@@ -1,18 +1,27 @@
 ItemGuard
 =========
 
-User-configurable protection for your inventory. Automatically buys back mistakenly sold items.
+Have you ever accidentally sold something to a vendor before logging off?
+Have you ever needed to use Blizzard's item restoration for something you lost?
+
+Would you like to have some sort of protection to prevent accidental loss of items?
+
+Then this addon could be for you!
 
 What it does
 ------------
 
 This addon will automatically buy back any items that you have told the addon to protect.
+
+ItemGuard does not protect any items by default, but you can easily tell it to.
 Simply type in "/itemguard" into the chatbox, shift-click the item you wish to protect, and then press enter.
 
 It should look like this:
 ```
 /itemguard [Fishing Pole]
 ```
+
+Protection lists are saved per character, so you'll need to set up each character separately.
 
 To remove protection from an item, simply repeat the above.
 
@@ -23,7 +32,7 @@ You *WILL NOT* lose any money as a result, nor do you have to incur a 30-day coo
 Translations
 ------------
 
-ItemGuard will work for everyone regardless of language, but its notification text is currently only in English.
+ItemGuard should work for everyone regardless of language, but its notification text is currently only in English.
 
 Feedback
 --------
