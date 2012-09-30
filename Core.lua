@@ -38,6 +38,11 @@ end
 function ItemGuard:HandleChatCommand(link)
 	local itemID = link:match("item:(%d+):")
 
+	if not itemID then
+		self:Print("Usage: /itemguard [item link]")
+		return
+	end
+
 	if db[itemID] then
 		db[itemID] = nil
 		self:Print(link .. " is no longer marked as a protected item.")
