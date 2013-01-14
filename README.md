@@ -48,8 +48,8 @@ If you have any comments, bug reports or feature requests, please leave a commen
 About the Author
 ----------------
 
-This addon was lovingly made by Ethan Centaurai, who usually plays as [Ysaera](http://eu.battle.net/wow/en/character/ghostlands/ysaera/simple) on Ghostlands-EU.
+This addon was lovingly made by Ethan Centaurai, who usually plays as [Ulbrecht](http://eu.battle.net/wow/en/character/ghostlands/ulbrecht/simple) on Ghostlands-EU.
 
-* Visit my [blog](http://www.noblewolf.net/).
+* Visit my [website](http://www.ethancentaurai.com/).
 * Follow me on [Twitter](http://twitter.com/StevenBlanchard).
-* Star me on [GitHub](https://github.com/EthanCentaurai).
+* Watch me on [GitHub](https://github.com/EthanCentaurai).
