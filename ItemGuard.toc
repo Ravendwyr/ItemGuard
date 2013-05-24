@@ -1,4 +1,4 @@
-## Interface: 50001
+## Interface: 50300
 ## Title: Item Guard
 ## Notes: User-configurable protection for your inventory. Automatically buys back mistakenly sold items.
 ## Author: Ethan Centaurai
