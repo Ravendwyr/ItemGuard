@@ -1,5 +1,5 @@
 
--- localisation --
+-- upvalue --
 
 local _G					= _G
 local LibStub				= _G.LibStub
@@ -10,11 +10,9 @@ local BuybackItem			= _G.BuybackItem
 local db
 
 
-
 -- creation --
 
 local ItemGuard = LibStub("AceAddon-3.0"):NewAddon("ItemGuard", "AceConsole-3.0", "AceEvent-3.0")
-
 
 
 -- initialisation --
@@ -30,7 +28,6 @@ function ItemGuard:OnEnable()
 	self:RegisterChatCommand("guard", "HandleChatCommand")
 	self:RegisterChatCommand("protect", "HandleChatCommand")
 end
-
 
 
 -- protection --
