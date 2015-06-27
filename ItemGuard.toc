@@ -1,11 +1,8 @@
-## Interface: 50300
+## Interface: 60200
 ## Title: Item Guard
 ## Notes: User-configurable protection for your inventory. Automatically buys back mistakenly sold items.
 ## Author: Ethan Centaurai
 ## Version: @project-version@
-## X-Website: http://www.wowace.com/addons/itemguard
-## X-WoWIPortal: Ethan Centaurai
-## X-Category: Bags & Inventory
 ## SavedVariables: ItemGuardDB
 
 #@no-lib-strip@
